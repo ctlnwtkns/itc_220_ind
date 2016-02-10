@@ -1,0 +1,10 @@
+ProductKey,ProductName,ProductUnitSize,ProductUnitPrice
+soda,Soda bottle,2 Liter bottle,3.75
+brdstks,Breadsticks,8 per pack,2.5
+basicS,Basic Pizza Small,8 inch,5.35
+basicM,Basic Pizza Medium,12 inch,7.35
+basicL,Basic Pizza Large,18 inch,13.5
+specialS,Specialty Small,8 inch,6.35
+specialM,Specialty Medium,12 inch,9.25
+specialL,Specialty Large,18 inch,15
+top,Additional toppings,I cup,1
