@@ -1,7 +1,6 @@
-//
-To Turn In:
-I want to see the SQL and the answer to the query. For the 12 and 13, run a SELECT query to show that the operations were successful.
-//
+
+--To Turn In:
+--I want to see the SQL and the answer to the query. For the 12 and 13, run a SELECT query to show that the operations were successful.
 
 --List all Last names, phone numbers and zip of the customers
 SELECT CustomerLastName, CustomerPhoneKey, CustomerZip 
